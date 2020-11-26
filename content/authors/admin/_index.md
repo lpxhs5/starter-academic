@@ -30,10 +30,10 @@ education:
       institution: University of Nottingham
     - course: MSc Psychology Research Methods
       institution: University of Nottingham
-      year: 2019
+      year: ""
     - course: BSc Psychology and Cognitive Neuroscience
       institution: University of Nottingham
-      year: 2018
+      year: ""
 email: ""
 superuser: true
 user_groups:
