@@ -10,7 +10,6 @@ interests:
   - Neurological development
   - Python/MATLAB Coding
   - Scicomm
-  - Teaching
 social:
   - icon: envelope
     icon_pack: fas
