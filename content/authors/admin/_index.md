@@ -22,18 +22,18 @@ social:
     icon_pack: fab
     link: https://github.com/gcushen
 organizations:
-  - name: Stanford University
+  - name: University of Nottingham
     url: ""
 education:
   courses:
-    - course: "BSc Psychology and Cognitive Neuroscience "
+    - course: PhD Psychology
       institution: University of Nottingham
-      year: 2018
     - course: MSc Social Science Research Methods (Psychology)
       institution: University of Nottingham
       year: 2019
-    - course: PhD Psychology
+    - course: "BSc Psychology and Cognitive Neuroscience "
       institution: University of Nottingham
+      year: 2018
 email: ""
 superuser: true
 user_groups:
