@@ -22,7 +22,7 @@ social:
     link: https://github.com/lpxhs5
 organizations:
   - name: University of Nottingham
-    url: https://tsresearchuon.wixsite.com/research
+    url: ""
 education:
   courses:
     - course: PhD Psychology, ongoing
