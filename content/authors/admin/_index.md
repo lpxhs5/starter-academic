@@ -27,10 +27,10 @@ education:
   courses:
     - course: PhD Psychology, ongoing
       institution: University of Nottingham
-    - course: MSc Psychology Research Methods
+    - course: MSc Psychology Research Methods, 2018-2019
       institution: University of Nottingham
       year: ""
-    - course: BSc Psychology and Cognitive Neuroscience
+    - course: BSc Psychology and Cognitive Neuroscience, 2015-2018
       institution: University of Nottingham
       year: ""
 email: ""
