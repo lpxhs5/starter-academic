@@ -1,13 +1,15 @@
 ---
 title: Hannah Slack
-role: Psychologist
+role: PhD Researcher and PGTA
 avatar_filename: avatar.png
-bio: My research interests include neurological development, mental health and AI.
+bio: "My research interests include neurological development, mental health and
+  AI. "
 interests:
   - Artificial Intelligence
-  - Neurological development
   - Mental health
-  - Python coding
+  - Neurological development
+  - Python/MATLAB Coding
+  - Scicomm
 social:
   - icon: envelope
     icon_pack: fas
@@ -20,7 +22,7 @@ social:
     link: https://github.com/lpxhs5
 organizations:
   - name: University of Nottingham
-    url: ""
+    url: https://tsresearchuon.wixsite.com/research
 education:
   courses:
     - course: PhD Psychology, ongoing
@@ -38,4 +40,4 @@ user_groups:
   - Visitors
 highlight_name: false
 ---
-Hi, I’m Hannah. I’m a Psychologist at the University of Nottingham. My research looks at how sense of agency develops across adolescence. Feel free to drop me a [message](https://hannahslack.wordpress.com/contact/) or arrange a [meeting](https://calendar.x.ai/hannahslack/shortmeeting)!
+Hi, I’m Hannah. I’m a Psychologist at the University of Nottingham. My research looks at how sense of agency develops across adolescence. Feel free to drop me a [](https://hannahslack.wordpress.com/contact/)message or arrange a [](https://calendar.x.ai/hannahslack/shortmeeting)meeting.
