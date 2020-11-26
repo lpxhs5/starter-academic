@@ -1,6 +1,6 @@
 ---
 title: Hannah Slack
-role: Postgraduate Researcher
+role: Psychologist
 avatar_filename: avatar.png
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
