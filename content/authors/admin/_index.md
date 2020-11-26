@@ -8,7 +8,6 @@ interests:
   - Neurological development
   - Mental health
   - Python coding
-  - THING
 social:
   - icon: envelope
     icon_pack: fas
