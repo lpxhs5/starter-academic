@@ -7,7 +7,7 @@ interests:
   - Artificial Intelligence
   - Neurological development
   - Mental health
-  - Coding
+  - Python coding
 social:
   - icon: envelope
     icon_pack: fas
