@@ -26,12 +26,12 @@ organizations:
     url: ""
 education:
   courses:
-    - course: PhD Psychology
+    - course: PhD Psychology, ongoing
       institution: University of Nottingham
     - course: MSc Social Science Research Methods (Psychology)
       institution: University of Nottingham
       year: 2019
-    - course: "BSc Psychology and Cognitive Neuroscience "
+    - course: BSc Psychology and Cognitive Neuroscience
       institution: University of Nottingham
       year: 2018
 email: ""
