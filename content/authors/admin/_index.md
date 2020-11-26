@@ -34,7 +34,7 @@ education:
       institution: University of Nottingham
       year: 2018
 email: ""
-superuser: true
+superuser: false
 user_groups:
   - Researchers
   - Visitors
