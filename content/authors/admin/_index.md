@@ -28,7 +28,7 @@ education:
   courses:
     - course: PhD Psychology, ongoing
       institution: University of Nottingham
-    - course: MSc Social Science Research Methods (Psychology)
+    - course: MSc Psychology Research Methods
       institution: University of Nottingham
       year: 2019
     - course: BSc Psychology and Cognitive Neuroscience
