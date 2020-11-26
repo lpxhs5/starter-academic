@@ -2,12 +2,12 @@
 title: Hannah Slack
 role: Psychologist
 avatar_filename: avatar.png
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: My research interests include neurological development, mental health and AI.
 interests:
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Neurological development
+  - Mental health
+  - Coding
 social:
   - icon: envelope
     icon_pack: fas
@@ -41,4 +41,4 @@ user_groups:
   - Visitors
 highlight_name: false
 ---
-Hi, I’m Hannah. I’m a Postgraduate Researcher at the University of Nottingham. My research looks at how sense of agency develops across adolescence. I’m also interested in neurological development, mental health, tech and AI. Feel free to drop me a [message](https://hannahslack.wordpress.com/contact/) or arrange a [meeting](https://calendar.x.ai/hannahslack/shortmeeting)!
+Hi, I’m Hannah. I’m a Postgraduate Researcher at the University of Nottingham. My research looks at how sense of agency develops across adolescence. Feel free to drop me a [message](https://hannahslack.wordpress.com/contact/) or arrange a [meeting](https://calendar.x.ai/hannahslack/shortmeeting)!
